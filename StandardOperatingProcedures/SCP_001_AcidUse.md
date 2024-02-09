@@ -15,7 +15,7 @@ APPROVALS:
 |------------|--------|----------------|--------------------------------------------------------------------|
 |M.R. / S.B. | 	A  |	10/21/2023  |	Initial Release                                                  |
 |M.R. / S.B. | 	B  |	1/5/2024  |	Replaced names with initials. Changed “Wear ppe such as safety glasses.” to “Wear safety glasses.” Changed “Optionally you can wear gloves.” to “Optional: gloves.” Changed ““Acid bin”. “ to  “Acid mixing station.” Changed “2 separate glass containers.” to “Measuring cup.” Changed “Scale” to “5kg scale.”Changed “Acid powder” to “Ammonium Persulfate.” Deleted step 3. Added step “you have now made 5 cups of acid” added “with stirrer”	 |
-|M.R         |  C  | 2/9/2024    |Punctuation.  |                                	
+|M.R         |  C  | 2/9/2024    |Punctuation. Removed 5g from scale. Made Ammoniu Persulfate own bullet. Removed word scale |                                	
   
 3.	Purpose:  
 2.1.	Etches copper off of circuit boards, to make printed circuit boards  
@@ -29,12 +29,13 @@ APPROVALS:
 ●	Measuring cup  
 ●	Acid mixing station  
 ●	Acid mixer  
-●	5kg scale  
-●	Water  ● Ammonium Persulfate 
+●	scale  
+●	Water 
+●	Ammonium Persulfate 
 5.	Procedure:  
 Step  	Procedure  	Picture  
 1. 	 Measure out 5 cups of water in an empty container.  	   
-2. 	 Press the tare button on scale, scale scale should read 0 grams.  	   
+2. 	 Press the tare button on scale, scale should read 0 grams.  	   
 3. 	 Slowly pour ammonium persulfate powder into water.  	   
  
 4. 	 Slowly mix acid powder into water using acid stirrer  	   
@@ -46,8 +47,4 @@ Step  	Procedure  	Picture
 
 
 
-  | Month    | Savings |
-| -------- | ------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
+
