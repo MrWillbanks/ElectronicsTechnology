@@ -32,10 +32,12 @@ APPROVALS:
 ●	Acid mixer  
 ●	Scale  
 ●	Water 
-
 ●	Ammonium Persulfate 
-5.	Procedure:
-Step  	Procedure  	Picture  
+5.	Procedure
+
+Step  	Procedure
+
+Picture  
 1. 	 Measure out 5 cups of water in an empty container
 	        <img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic001.jpg?token=GHSAT0AAAAAACN2AMMAOKTUMDGHM4A74GFKZOGH2MA" alt="image" width="200"/>
 2. 	 Press the tare button on scale, scale should read 0 grams
