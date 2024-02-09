@@ -35,21 +35,21 @@ APPROVALS:
 5.	Procedure:  
 Step  	Procedure  	Picture  
 1. 	 Measure out 5 cups of water in an empty container
-2. 	        [image](./SOP_AcidUse_pics/)
-3. 	 Press the tare button on scale, scale should read 0 grams
-4. 		[image](./SOP_AcidUse_pics/)   
-5. 	 Slowly pour ammonium persulfate powder into water
-6. 	        [image](./SOP_AcidUse_pics/)
-7. 	 Slowly mix acid powder into water using acid stirrer
-8.              [image](./SOP_AcidUse_pics/)
-9. 	 Keep stirring until the solution is liquid with no clumps
-10. 	        [image](./SOP_AcidUse_pics/)	   
-11. 	 Pour mixed solution into the “acid bin” for later use
-12. 	        [image](./SOP_AcidUse_pics/)	   
-13. 	 You have now made 5 cups of acid
-14. 	        [image](./SOP_AcidUse_pics/)
-15. 	 Repeat steps 1-8 if more acid is needed
-16. 	        [image](./SOP_AcidUse_pics/)
+	        [image](./SOP_AcidUse_pics/pic001.jpg)
+2. 	 Press the tare button on scale, scale should read 0 grams
+ 		[image](https://raw.githubusercontent.com/MrWillbanks/ElectronicsTechnology/SOP_001_AcidMixing_Matt-R/StandardOperatingProcedures/SOP_AcidUse_pics/pic002.jpg?token=GHSAT0AAAAAACN2AMMBOBSDO7YDUYK5UO6UZOGFKTA))   
+3.	 Slowly pour ammonium persulfate powder into water
+ 	        [image](./SOP_AcidUse_pics/pic003.jpg)
+ 4.	 Slowly mix acid powder into water using acid stirrer
+                [image](./SOP_AcidUse_pics/pic004.jpg)
+ 5.	 Keep stirring until the solution is liquid with no clumps
+ 	        [image](./SOP_AcidUse_pics/pic005.jpg)	   
+6.	 Pour mixed solution into the “acid bin” for later use
+ 	        [image](./SOP_AcidUse_pics/pic006.jpg)	   
+ 7.	 You have now made 5 cups of acid
+ 	       
+ 8.	 Repeat steps 1-8 if more acid is needed
+ 	       
 
 
 
