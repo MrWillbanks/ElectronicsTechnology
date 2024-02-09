@@ -33,7 +33,8 @@ APPROVALS:
 ●	Scale  
 ●	Water 
 ●	Ammonium Persulfate 
-5.	Procedure:  
+
+5.	Procedure:
 Step  	Procedure  	Picture  
 1. 	 Measure out 5 cups of water in an empty container
 	        <img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic001.jpg?token=GHSAT0AAAAAACN2AMMAOKTUMDGHM4A74GFKZOGH2MA" alt="image" width="200"/>
