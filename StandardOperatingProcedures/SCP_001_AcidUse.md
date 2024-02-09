@@ -31,9 +31,9 @@ APPROVALS:
 ●	Acid mixing station  
 ●	Acid mixer  
 ●	Scale  
-●	Water 
-●	Ammonium Persulfate 
-5.	Procedure
+●	Water                              
+●	Ammonium Persulfate                                  
+5.	Procedure                           
 
 Step  	Procedure
 
