@@ -1,6 +1,6 @@
-![nt logo](https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic000-NT-LOGO.png?token=GHSAT0AAAAAACN2AMMAUDVKCA2NCO5EOEESZOGH72Q)Norwich Technical High School - Electronics Technology    	Date Updated:  10/21/23  
+<img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic000-NT-LOGO.png?token=GHSAT0AAAAAACN2AMMAUDVKCA2NCO5EOEESZOGH72Q" alt="NT LOGO" width="120"/>Norwich Technical High School - Electronics Technology    	Date Updated:  10/21/23  
 7 Mahan Drive  
-Norwich, CT 06360  
+Norwich, C 06360  
   
   
 TITLE:  
