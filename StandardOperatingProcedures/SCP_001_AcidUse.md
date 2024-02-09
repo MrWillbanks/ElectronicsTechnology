@@ -12,10 +12,10 @@ APPROVALS:
 1.	Revision History:
 
 |Initials    |	REV  |	DATE  	     |   SUMMARY OF CHANGES                                              |
-|--------------------------------------------------------------------------------------------------------|
+|------------|--------|----------------|--------------------------------------------------------------------|
 |M.R. / S.B. | 	A  |	10/21/2023  |	Initial Release                                                  |
 |M.R. / S.B. | 	B  |	1/5/2024  |	Replaced names with initials. Changed “Wear ppe such as safety glasses.” to “Wear safety glasses.” Changed “Optionally you can wear gloves.” to “Optional: gloves.” Changed “ “Acid |
-|                                 |    bin”. “ to “Acid mixing station.” Changed “2 separate glass containers.” to “Measuring cup.” Changed “Scale” to “5kg scale.”Changed “Acid powder” to “Ammonium Persulfate.” Deleted  | |                      	          |    step 3. Added step “you have now made 5 cups of acid” added “with stirrer”  |                              	  
+|            |                     |    bin”. “ to “Acid mixing station.” Changed “2 separate glass containers.” to “Measuring cup.” Changed “Scale” to “5kg scale.”Changed “Acid powder” to “Ammonium Persulfate.” Deleted | |            |           	   |    step 3. Added step “you have now made 5 cups of acid” added “with stirrer”  |                              	  
                                 	
   
 3.	Purpose:  
