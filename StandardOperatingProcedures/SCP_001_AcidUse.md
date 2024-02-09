@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic000-NT-LOGO.png?token=GHSAT0AAAAAACN2AMMAUDVKCA2NCO5EOEESZOGH72Q" alt="NT LOGO" width="60"/>
-Norwich Technical High School - Electronics Technology    	Date Updated:  10/21/23  
+Norwich Technical High School - Electronics Technology    	   Date Updated:  10/21/23  
 7 Mahan Drive  
 Norwich, C 06360  
   
   
-TITLE:  
+TITLE:  Acid Use
   
 APPROVALS:   
 	Author: Matthew Ruddock, Samuel Brownell  	Date: 10/21/2023  	  
