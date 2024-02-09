@@ -32,8 +32,8 @@ APPROVALS:
 ●	Acid mixer  
 ●	Scale  
 ●	Water 
-●	Ammonium Persulfate 
 
+●	Ammonium Persulfate 
 5.	Procedure:
 Step  	Procedure  	Picture  
 1. 	 Measure out 5 cups of water in an empty container
