@@ -1,4 +1,4 @@
-	Norwich Technical High School - Electronics Technology    	Date Updated:  10/21/23  
+[]()Norwich Technical High School - Electronics Technology    	Date Updated:  10/21/23  
 7 Mahan Drive  
 Norwich, CT 06360  
   
@@ -35,13 +35,13 @@ APPROVALS:
 5.	Procedure:  
 Step  	Procedure  	Picture  
 1. 	 Measure out 5 cups of water in an empty container
-2. 	    [](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+2. 	        [](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 3. 	 Press the tare button on scale, scale should read 0 grams
-4. 	 [](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)	   
+4. 		[](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)	   
 5. 	 Slowly pour ammonium persulfate powder into water
-6. 	  [](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+6. 	        [](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 7. 	 Slowly mix acid powder into water using acid stirrer
-8. 	   [](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+8.              [](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 9. 	 Keep stirring until the solution is liquid with no clumps
 10. 	  [](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)	   
 11. 	 Pour mixed solution into the “acid bin” for later use
