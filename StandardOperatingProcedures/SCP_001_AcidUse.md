@@ -9,21 +9,25 @@ APPROVALS:
 	Author: Matthew Ruddock, Samuel Brownell  	Date: 10/21/2023  	  
 	Review:  	  	Date:    
   
-1.	Revision History:  
-Initials  	REV  	DATE  	SUMMARY OF CHANGES  
-M.R. / S.B.  	A  	10/21/2023  	Initial Release  
-M.R. / S.B.  	B  	1/5/2024  	Replaced names with initials. Changed “Wear ppe such as safety glasses.” to “Wear safety glasses.” Changed “Optionally you can wear gloves.” to “Optional: gloves.” 
-Changed “ “Acid bin”. “ to “Acid mixing station.” Changed “2 separate glass containers.” to “Measuring cup.” Changed “Scale” to “5kg scale.”  
-Changed “Acid powder” to “Ammonium Persulfate.” Deleted step 3. Added step “you have now made 5 cups of acid” added “with stirrer”  
+1.	Revision History:
+|--------------------------------------------------------------------------------------------------------|
+|Initials    |	REV  |	DATE  	     |   SUMMARY OF CHANGES                                              |
+|--------------------------------------------------------------------------------------------------------|
+|M.R. / S.B. | 	A  |	10/21/2023  |	Initial Release                                                  |
+|--------------------------------------------------------------------------------------------------------|
+|M.R. / S.B. | 	B  |	1/5/2024  |	Replaced names with initials. Changed “Wear ppe such as safety glasses.” to “Wear safety glasses.” Changed “Optionally you can wear gloves.” to “Optional: gloves.” Changed “ “Acid |
+|                                 |    bin”. “ to “Acid mixing station.” Changed “2 separate glass containers.” to “Measuring cup.” Changed “Scale” to “5kg scale.”Changed “Acid powder” to “Ammonium Persulfate.” Deleted  | |                      	          |    step 3. Added step “you have now made 5 cups of acid” added “with stirrer”  |
+|---------------------------------------------------------------------------------------------------------- |                                	  
+                                	
   
-2.	Purpose:  
+3.	Purpose:  
 2.1.	Etches copper off of circuit boards, to make printed circuit boards  
   
-3.	Safety:  
+4.	Safety:  
 3.1.	Wear safety glasses  
 3.2.	Optional: gloves  
   
-4.	Materials 
+5.	Materials 
    
 ●	Measuring cup  
 ●	Acid mixing station  
