@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic000-NT-LOGO.png?token=GHSAT0AAAAAACN2AMMAUDVKCA2NCO5EOEESZOGH72Q" alt="NT LOGO" width="60"/>
+<img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/main/Photos/NT_Logo.png" width="60"/>
 Norwich Technical High School - Electronics Technology    	   Date Updated:  10/21/23  
 7 Mahan Drive  
 Norwich, C 06360  
