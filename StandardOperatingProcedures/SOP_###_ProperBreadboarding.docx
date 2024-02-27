@@ -7,4 +7,12 @@ Author: Damian Rios
 Date: February 21, 2024
 
 
-The breadboatrd has multiple rows and columns, if you notice there are two long columns that run down the side of the breadboard and split the breadboard into multiple parts.
+The breadboatrd has multiple rows and columns, if you notice there are two long columns that run down the side of the breadboard and split the breadboard into multiple parts. these two rows are primarily used to connect a positive voltage and ground to the board so we have a common place to connect all our components.
+-insert image-
+The highlighted lines are connected following the highlighted path, notice they are cut off at the halfay point. If you wish to use these columns further down the breadboard you will need to connect the columns at the halfway point.
+
+apart from the side columns there is also the center rows. These rows are connected in points of five horizontally As you can see by the image below.
+-insert image-
+If you wish to connect a component, make sure that the components isn't connected through the same row otherwise the component will not be doing anything or could even lead to a short across the entire trainer if done incorrectley.
+In the picture you can also see that the side rows are colored red or black, this is to signify that they are used to power the board with voltage and ground, this way if you wanted to pass voltage through a component to ground, you wouldnt need to pull it directley from the trainer and can instead pull iut from the side rows, making it much mo9re convenient.
+The center rows are blue or not highlighted, the unhighlighted ones doesn't mean they don't work, it was simply mean't to show that the rows are seperated and aren't all connected throughout the entire thing, but only connected horizontally.
