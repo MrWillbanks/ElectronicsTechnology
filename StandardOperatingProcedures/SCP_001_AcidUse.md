@@ -17,29 +17,31 @@ APPROVALS:
 |M.R. / S.B. | 	A  |	10/21/2023  |	Initial Release                                                  |
 |M.R. / S.B. | 	B  |	1/5/2024  |	Replaced names with initials. Changed “Wear ppe such as safety glasses.” to “Wear safety glasses.” Changed “Optionally you can wear gloves.” to “Optional: gloves.” Changed ““Acid bin”. “ to  “Acid mixing station.” Changed “2 separate glass containers.” to “Measuring cup.” Changed “Scale” to “5kg scale.”Changed “Acid powder” to “Ammonium Persulfate.” Deleted step 3. Added step “you have now made 5 cups of acid” added “with stirrer”	 |
 |M.R  / S.B. |  C  | 2/9/2024    |Converted .docx file to .MD file. Renamed SOP to Acid Use. Punctuation. Removed 5g from scale. Made Ammonium Persulfate own bullet. Removed word scale. Capitilized "scale"|         
-|M.R|  C  | 3/4/2024    |Fixed missing steps. Removed extra words.| 
+|M.R|  C  | 3/4/2024    |Fixed missing steps. Removed extra words. Formated Steps. Formated bullet list. Added notes section.| 
 
   
-3.	Purpose:
+2.	Purpose:
 2.1.	Etches copper off of circuit boards, to make printed circuit boards  
   
-5.	Safety:  
+3.	Safety:  
 3.1.	Wear safety glasses  
 3.2.	Optional: gloves  
   
-6.	Materials 
+4.	Materials 
    
 ●	Measuring cup  
 ●	Acid mixing station  
 ●	Acid mixer  
 ●	Scale  
 ●	Water                              
-●	Ammonium Persulfate                                  
-5.	Procedure                           
+●	Ammonium Persulfate                                                            
 
-6.	Notes:
-●	If you are going to etch smaller PCBs only make 8 cups of acid. If you are going to etch bigger PCBs use 16+ cups of acid.
-  	
+5.	Notes:                                                                                   
+●	If you are going to etch PCBs that are under 3.25 inches (82.55mm) only make 8 cups of acid.
+●	If you are going to etch PCBS over 3.25 inches and under 6.5 inches use 16 cups of acid.
+●	It is preferred to etch multiple PCBs at once so, you don't waste acid.
+
+7.	Procedure:
 | Step  	|Procedure:|  Pictures: |
 |-|-|-|
 |1.| 	 Measure out 6 cups of water in an empty container| <img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic001.jpg?token=GHSAT0AAAAAACN2AMMAOKTUMDGHM4A74GFKZOGH2MA" alt="image" width="200"/>|
