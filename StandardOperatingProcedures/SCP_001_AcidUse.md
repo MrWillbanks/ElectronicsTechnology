@@ -4,7 +4,7 @@ Norwich Technical High School - Electronics Technology    	   Date Updated:  10/
 Norwich, C 06360  
   
   
-TITLE:  Acid Use
+TITLE:  **Acid Use**
   
 APPROVALS:   
 	Author: Matthew Ruddock, Samuel Brownell  	Date: 10/21/2023  	  
