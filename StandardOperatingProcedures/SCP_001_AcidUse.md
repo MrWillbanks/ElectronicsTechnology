@@ -20,14 +20,14 @@ APPROVALS:
 |M.R|  C  | 3/4/2024    |Fixed missing steps. Removed extra words.| 
 
   
-3.	Purpose:  
+3.	Purpose:
 2.1.	Etches copper off of circuit boards, to make printed circuit boards  
   
-4.	Safety:  
+5.	Safety:  
 3.1.	Wear safety glasses  
 3.2.	Optional: gloves  
   
-5.	Materials 
+6.	Materials 
    
 ●	Measuring cup  
 ●	Acid mixing station  
@@ -38,7 +38,7 @@ APPROVALS:
 5.	Procedure                           
 
 6.	Notes:
-   If you are going to etch smaller PCBs only make 8 cups of acid. If you are going to etch bigger PCBs use 16+ cups of acid.
+●	If you are going to etch smaller PCBs only make 8 cups of acid. If you are going to etch bigger PCBs use 16+ cups of acid.
   	
 | Step  	|Procedure:|  Pictures: |
 |-|-|-|
