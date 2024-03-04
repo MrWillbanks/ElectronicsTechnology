@@ -1,7 +1,7 @@
 <img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/main/StandardOperatingProcedures/Photos/NT_Logo.png" width="60"/>
 Norwich Technical High School - Electronics Technology <br>
-Date Updated:  03/04/23 <br>
-7 Mahan Drive, Norwich, CT 06360
+7 Mahan Drive, Norwich, CT 06360 <br>
+Date Updated:  03/04/24
   
   
 TITLE:  Multimeter
@@ -14,7 +14,7 @@ APPROVALS:
 
 |Initials    |	REV  |	DATE |   SUMMARY OF CHANGES |
 |-|-|-|-|
-|M.H. | 	A  |	03/04/2024  |	Initial Release                                                  |
+|M.H. | 	A  |	03/04/2024  |	Initial Release (Continuity)                                                 |
                             	
   
 2.	Purpose:  
