@@ -42,6 +42,8 @@ APPROVALS:
 ●	It is preferred to etch multiple PCBs at once so, you don't waste acid.
 
 7.	Procedure:
+
+   
 | Step  	|Procedure:|  Pictures: |
 |-|-|-|
 |1.| 	 Measure out 6 cups of water in an empty container| <img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic001.jpg?token=GHSAT0AAAAAACN2AMMAOKTUMDGHM4A74GFKZOGH2MA" alt="image" width="200"/>|
