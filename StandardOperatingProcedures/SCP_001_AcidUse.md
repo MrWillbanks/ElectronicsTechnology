@@ -37,17 +37,21 @@ APPROVALS:
 ●	Ammonium Persulfate                                  
 5.	Procedure                           
 
+6.	Notes:
+   If you are going to etch smaller PCBs only make 8 cups of acid. If you are going to etch bigger PCBs use 16+ cups of acid.
+  	
 | Step  	|Procedure:|  Pictures: |
 |-|-|-|
-|1.| 	 Measure out 5 cups of water in an empty container| <img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic001.jpg?token=GHSAT0AAAAAACN2AMMAOKTUMDGHM4A74GFKZOGH2MA" alt="image" width="200"/>|
-|2. |	 Press the tare button on scale, scale should read 0 grams| <img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic002.jpg?token=GHSAT0AAAAAACN2AMMA7HNUBHBTKFHZXFC2ZOGH4IQ" alt="image" width="200"/> | 
-|3.|	 Slowly pour ammonium persulfate powder into water| <img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic003.jpg?token=GHSAT0AAAAAACN2AMMBL2GTN6RHTFESAHZIZOGH4WQ" alt="image" width="200"/>  |
-|4.|	 Slowly mix acid powder into water using acid stirrer| <img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic004.jpg?token=GHSAT0AAAAAACN2AMMAYR753HAZ5CBTOHVAZOGH5BA" alt="image" width="200"/>|
-|5.|	 Keep stirring until the solution is liquid with no clumps| <img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic005.jpg?token=GHSAT0AAAAAACN2AMMBVT56VURMUUQ6EXH4ZOGH5KA" alt="image" width="200"/>	|   
-|6.|	 Pour mixed solution into the “acid bin” for later use| <img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic006.jpg?token=GHSAT0AAAAAACN2AMMAGJJJNE5DNBZP5WQ4ZOGH5WQ" alt="image" width="200"/> |
-|7.|	 You have now made 5 cups of acid|    empty |
+|1.| 	 Measure out 6 cups of water in an empty container| <img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic001.jpg?token=GHSAT0AAAAAACN2AMMAOKTUMDGHM4A74GFKZOGH2MA" alt="image" width="200"/>|
+|2. |	 Press the tare button on scale, scale should read 0 grams| <img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic002.jpg?token=GHSAT0AAAAAACN2AMMA7HNUBHBTKFHZXFC2ZOGH4IQ" alt="image" width="200"/> |
+|3.|	 Measure out 500 grams (half-bottle) of the dry Ammonium Persulfate into a seperate dyr measuring container.| <img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic003-1.jpg" alt="image" width="200"/>  |
+|4.|	 Slowly pour the measured out ammonium persulfate powder into water| <img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic003.jpg?token=GHSAT0AAAAAACN2AMMBL2GTN6RHTFESAHZIZOGH4WQ" alt="image" width="200"/>  |
+|5.|	 Slowly mix acid powder into water using acid stirrer| <img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic004.jpg?token=GHSAT0AAAAAACN2AMMAYR753HAZ5CBTOHVAZOGH5BA" alt="image" width="200"/>|
+|6.|	 Keep stirring until the solution is liquid with no clumps| <img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic005.jpg?token=GHSAT0AAAAAACN2AMMBVT56VURMUUQ6EXH4ZOGH5KA" alt="image" width="200"/>	|   
+|7.|	 Pour mixed solution into the “acid bin” for later use| <img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic006.jpg?token=GHSAT0AAAAAACN2AMMAGJJJNE5DNBZP5WQ4ZOGH5WQ" alt="image" width="200"/> |
+|8.|	 You have now made 8 cups of acid|    empty |
  	       
-|8.|	 Repeat steps 1-8 if more acid is needed|   empty |
+|9.|	 Repeat steps 1-8 if more acid is needed|   empty |
  	       
 
 
