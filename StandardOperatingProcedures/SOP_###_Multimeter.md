@@ -32,7 +32,7 @@ APPROVALS:
   	
 | Step | Procedure | Picture |
 |-|-|-|
-|1. | Place the multimeter leads in these ports| <img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/SOP_Multimeter_Maddy/StandardOperatingProcedures/Photos/SOP_%23%23%23_Multimeter/Multimeter_SOP_Continuity_1.jpg" width="200"/> |
-| 2. | Set the multimeter to continuity mode | <img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/SOP_Multimeter_Maddy/StandardOperatingProcedures/Photos/SOP_%23%23%23_Multimeter/Multimeter_SOP_Continuity_2.jpg" width="200"/> |
-| 3.| Place one lead on each end of the component | <img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/SOP_Multimeter_Maddy/StandardOperatingProcedures/Photos/SOP_%23%23%23_Multimeter/Multimeter_SOP_%20Continuity_3.jpg" width="200"/> |
+|1. | Place the multimeter leads in these ports| <img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/main/StandardOperatingProcedures/Photos/Multimeter/Multimeter_SOP_Continuity_1.jpg" width="200"/> |
+| 2. | Set the multimeter to continuity mode | <img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/main/StandardOperatingProcedures/Photos/Multimeter//Multimeter_SOP_Continuity_2.jpg" width="200"/> |
+| 3.| Place one lead on each end of the component | <img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/main/StandardOperatingProcedures/Photos/Multimeter//Multimeter_SOP_%20Continuity_3.jpg" width="200"/> |
 | 4. | If the multimeter beeps at you, it is conductive. If it does not beep then it is not continuous. | |
