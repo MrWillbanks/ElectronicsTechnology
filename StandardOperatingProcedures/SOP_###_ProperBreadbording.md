@@ -13,8 +13,8 @@ APPROVALS:
 
 |Initials    |	REV  |	DATE |   SUMMARY OF CHANGES |
 |-|-|-|-|
-|A.S.G. | 	A  |	03/08/2024  |	Initial Release                    |
-                            	
+|A.S.G. | 	A  |	02/08/2024  |	Initial Release                    |
+|A.S.G. | 	B  |	03/08/2024  |	Changed to Markdown and Updated Photos                |                           	
   
 2.	Purpose:  
 2.1.	To provide a basic overview of how a breadboard works <br>
