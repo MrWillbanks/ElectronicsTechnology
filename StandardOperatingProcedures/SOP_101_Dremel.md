@@ -1,38 +1,47 @@
 <img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/main/StandardOperatingProcedures/Photos/NT_Logo.png" width="60"/>
 Norwich Technical High School - Electronics Technology <br>
 7 Mahan Drive, Norwich, CT 06360 <br>
-Date Updated:  03/06/24
+Date Updated:  03/08/24
   
   
-TITLE:  Multimeter
+TITLE:  Dremel 
   
 APPROVALS:   
-	Author: Madeline Humiston  	<br> Date: 03/06/2024 
+	Author: Nicholi Tipton  	<br> Date: 03/08/2024 
   
 1.	Revision History:
 
 |Initials    |	REV  |	DATE |   SUMMARY OF CHANGES |
 |-|-|-|-|
-|M.H. | 	A  |	03/06/2024  |	Initial Release (Continuity)                                                 |
+|M.H. | 	A  |	03/08/2024  |	Initial Release (Continuity) |
+
                             	
   
-2.	Purpose:  
-2.1.	To teach how to find continuity on a multimeter  
+2.	**Purpose:**  
+2.1.	To teach how to safe and properlly use a dremel 
   
-3.	Safety:  
-3.1.	Use caution when working on or around electrically live circuits
+3.	**Safety:**  
+3.1. Dont cut yourself <br>
+3.2. Dont use high settings <br>
+3.3. **ALWAYS** use saftey glasses <br>
 
-4. Materials <br>
-4.1. Multimeter <br>
-4.2. Leads for Multimeter <br>
-4.3. Component
+5. **Materials <br>**
+4.1. Dremel <br>
+4.2. Dremel Attachment (Cutting Bit, Drill Bit, Etc. <br>
+4.3. Copper <br>
+4.4. Woodblock <br>
 
-5.	Procedure <br>
+7.	Procedure <br>
 5.1. Continuity
   	
 | Step | Procedure | Picture |
 |-|-|-|
-|1. | Place the multimeter leads in these ports| <img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/main/StandardOperatingProcedures/Photos/Multimeter/Multimeter_SOP_Continuity_1.jpg" width="200"/> |
-| 2. | Set the multimeter to continuity mode | <img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/main/StandardOperatingProcedures/Photos/Multimeter//Multimeter_SOP_Continuity_2.jpg" width="200"/> |
-| 3.| Place one lead on each end of the component | <img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/main/StandardOperatingProcedures/Photos/Multimeter//Multimeter_SOP_%20Continuity_3.jpg" width="200"/> |
-| 4. | If the multimeter beeps at you, it is conductive. If it does not beep then it is not continuous. |
+|1. | Obtain all materials |  |
+| 2. |make sure its tightly Installed (hold lock button)  |  |
+| 3.|Make sure the tool is set to off before plugging in |  |
+| 4. | Set Dremel to apporopite speed  |
+| 5. | Before use, wear eye protection. |
+| 6. | Grab appropriate-sized copper |
+| 7. | Clamp in copper  with clamp on woodblock |
+| 8. | Carefully cut the adjusting clamp when needed. |
+| 9. | Put all materials away and clean up. |
