@@ -7,49 +7,44 @@ Norwich, C 06360
 TITLE:  Acid Use
   
 APPROVALS:   
-	Author: Matthew Ruddock, Samuel Brownell  	Date: 10/21/2023  	  
+	Author: Aiden Malone <br>
+ 	Date: 10/21/2023  	  
 	Review:  	  	Date:    
   
 1.	Revision History:
 
 |Initials    |	REV  |	DATE |   SUMMARY OF CHANGES |
-|-|-|-|--|
-|M.R. / S.B. | 	A  |	10/21/2023  |	Initial Release                                                  |
-|M.R. / S.B. | 	B  |	1/5/2024  |	Replaced names with initials. Changed “Wear ppe such as safety glasses.” to “Wear safety glasses.” Changed “Optionally you can wear gloves.” to “Optional: gloves.” Changed ““Acid bin”. “ to  “Acid mixing station.” Changed “2 separate glass containers.” to “Measuring cup.” Changed “Scale” to “5kg scale.”Changed “Acid powder” to “Ammonium Persulfate.” Deleted step 3. Added step “you have now made 5 cups of acid” added “with stirrer”	 |
-|M.R  / S.B. |  C  | 2/9/2024    |Converted .docx file to .MD file. Renamed SOP to Acid Use. Punctuation. Removed 5g from scale. Made Ammonium Persulfate own bullet. Removed word scale. Capitilized "scale"|                                	
+|-|-|-|-|
+|N.R| 	A  |	1/23/2024  |	                                                  |
+|A.M / J.G | 	B  | 3/8/2024  |	Converting to .md File	 |
   
 3.	Purpose:  
-2.1.	Etches copper off of circuit boards, to make printed circuit boards  
+2.1.	How to use a drill press safely and effectively.  
   
 4.	Safety:  
-3.1.	Wear safety glasses  
-3.2.	Optional: gloves  
+3.1.	Safety Glasses, hair tied back, no long sleeves while using, no gloves while operating  
   
 5.	Materials 
    
-●	Measuring cup  
-●	Acid mixing station  
-●	Acid mixer  
-●	Scale  
-●	Water                              
-●	Ammonium Persulfate                                  
+- A drill bit of whatever size you using to
+make the hole
+- Have a drill press                                  
 5.	Procedure                           
 
 Step  	Procedure
 
-Picture  
-1. 	 Measure out 5 cups of water in an empty container
-	        <img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic001.jpg?token=GHSAT0AAAAAACN2AMMAOKTUMDGHM4A74GFKZOGH2MA" alt="image" width="200"/>
-2. 	 Press the tare button on scale, scale should read 0 grams
- 		<img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic002.jpg?token=GHSAT0AAAAAACN2AMMA7HNUBHBTKFHZXFC2ZOGH4IQ" alt="image" width="200"/>  
-3.	 Slowly pour ammonium persulfate powder into water
- 	        <img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic003.jpg?token=GHSAT0AAAAAACN2AMMBL2GTN6RHTFESAHZIZOGH4WQ" alt="image" width="200"/>  
-4.	 Slowly mix acid powder into water using acid stirrer
-                <img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic004.jpg?token=GHSAT0AAAAAACN2AMMAYR753HAZ5CBTOHVAZOGH5BA" alt="image" width="200"/>
-5.	 Keep stirring until the solution is liquid with no clumps
- 	        <img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic005.jpg?token=GHSAT0AAAAAACN2AMMBVT56VURMUUQ6EXH4ZOGH5KA" alt="image" width="200"/>	   
-6.	 Pour mixed solution into the “acid bin” for later use
- 	         <img src="https://raw.githubusercontent.com/Matthew-Ruddock/archive-photo/main/pic006.jpg?token=GHSAT0AAAAAACN2AMMAGJJJNE5DNBZP5WQ4ZOGH5WQ" alt="image" width="200"/> 
-7.	 You have now made 5 cups of acid
- 	       
-8.	 Repeat steps 1-8 if more acid is needed
+  
+1. 	 Wear appropriate safety gear like safety glasses.
+2. 	 Securely clamp your drill press to the table  
+3.	Set the drill press speed according to the
+material and bit size
+4.	 Ensure the drill bit is securely installed and
+centered
+5.	Set the drilling depth using the depth stop 	   
+6.	Turn on the drill press  
+7.	Lower the drill bit slowly into the workpiece
+8.	Apply consistent pressure and let the drill do
+the work
+9.	Once done, turn off the drill press
+10.	Lift the drill bit and wait for it to stop
+completely before removing the workpiece
