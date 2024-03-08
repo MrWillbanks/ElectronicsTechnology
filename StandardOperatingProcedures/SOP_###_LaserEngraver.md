@@ -7,32 +7,38 @@ Date Updated:  03/06/24
 TITLE:  Multimeter
   
 APPROVALS:   
-	Author: Madeline Humiston  	<br> Date: 03/06/2024 
+	Author: Sam Brownell  	<br>
+ 	Date: 03/08/2024 
   
 1.	Revision History:
 
 |Initials    |	REV  |	DATE |   SUMMARY OF CHANGES |
 |-|-|-|-|
-|M.H. | 	A  |	03/06/2024  |	Initial Release (Continuity)                                                 |
+|CR | 	A  |	12/28/24  |	Initial Release   |
+|||||
                             	
   
 2.	Purpose:  
-2.1.	To teach how to find continuity on a multimeter  
+2.1.	To introduce the laser engraver CNC machine to students who are not knowledgeable on it. <br>  	
+2.2.  	Demonstrate to and inform reader of correct and safe operating procedure while using the laser engraver. <br>
+2.3.	Provide a reference to an operator of a machine to clear confusion
   
-3.	Safety:  
-3.1.	Use caution when working on or around electrically live circuits
+4.	Safety:  
+3.1.	Red tinted safety glass 
 
-4. Materials <br>
-4.1. Multimeter <br>
-4.2. Leads for Multimeter <br>
-4.3. Component
+5. Materials <br>
+4.1. Water <br>
+4.2. Object to engrave into <br>
+4.3. Material power parameters chart <br>
+4.4. File of what will be engraved <br>
+4.5. Inkscape software.
 
-5.	Procedure <br>
+7.	Procedure <br>
 5.1. Continuity
   	
 | Step | Procedure | Picture |
 |-|-|-|
-|1. | Place the multimeter leads in these ports| <img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/main/StandardOperatingProcedures/Photos/Multimeter/Multimeter_SOP_Continuity_1.jpg" width="200"/> |
-| 2. | Set the multimeter to continuity mode | <img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/main/StandardOperatingProcedures/Photos/Multimeter//Multimeter_SOP_Continuity_2.jpg" width="200"/> |
-| 3.| Place one lead on each end of the component | <img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/main/StandardOperatingProcedures/Photos/Multimeter//Multimeter_SOP_%20Continuity_3.jpg" width="200"/> |
-| 4. | If the multimeter beeps at you, it is conductive. If it does not beep then it is not continuous. | |
+|1. | Go onto google images and find a picture or shape that you want to engrave. (Make sure it’s a simple imagine with sharp lines)|
+| 2. | |
+| 3.|  |
+| 4. |  | |
