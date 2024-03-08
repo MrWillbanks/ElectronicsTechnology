@@ -39,7 +39,7 @@ Review:		Date:
    
 | Step  	|Procedure:|  Pictures: |
 |-|-|-|
-|1.|  Acquire a printed bluesheet and cut out your circuit. Acquire a copper board and cut it out to a size that is slightly bigger than your bluesheet, if possible, find a board that doesn't need to be cut.   | <img src="" alt="Image" width="200"/>|
+|1.|  Acquire a printed bluesheet and cut out your circuit. Acquire a copper board and cut it out to a size that is slightly bigger than your bluesheet, if possible, find a board that doesn't need to be cut.   | <img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/SOP_005_Heat-Press/StandardOperatingProcedures/Photos/heatpress/SOP_005_Step-1.jpg?raw=true" alt="Image" width="200"/>|
 |2.|	Place the circuit on the copper board, shiny side up.  | <img src="" alt="image" width="200"/>|
 |3.|	 Pre-heat the heat press to 325 degrees fahrenheit. The pressure is already set, no need for adjustment. | <img src="" alt="image" width="200"/>|
 |4.|	 Place the board and sheet on the heat press with the bluesheet facing up. Place it as close to the center as possible. Be careful not to touch the inside of the heat press while doing so. | <img src="" alt="image" width="200"/>|
