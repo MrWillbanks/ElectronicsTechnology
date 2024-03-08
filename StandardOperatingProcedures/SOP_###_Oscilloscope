@@ -1,1 +1,57 @@
+<img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/main/StandardOperatingProcedures/Photos/NT_Logo.png" width="60"/>
+Norwich Technical High School - Electronics Technology <br>
+7 Mahan Drive, Norwich, CT 06360 <br>
+Date Updated:  03/08/24
+  
+  
+TITLE:  Oscilloscope
+  
+APPROVALS:   
+	Author: Dimitri Torres  	<br> Date: 03/08/2024 
+  
+1.	Revision History:
 
+|Initials    |	REV  |	DATE |   SUMMARY OF CHANGES |
+|-|-|-|-|
+|D.T | 	A  |	03/08/2024  |	Initial Release (Basics)                                                |
+                            	
+  
+2.	Purpose:  
+2.1.	To teach the basics of an Oscilloscope 
+
+3.	Safety:  
+3.1.	Use caution when working on or around electrically live circuits
+
+4. Materials <br>
+4.1. Oscilloscope <br>
+4.2. Leads for Oscilloscope <br>
+4.3. Circuit/Function Generator
+
+5.	Controls <br>
+5.1. Visual Controls <br>
+5.2. Vertical Controls <br>
+5.3. Horizontal Controls
+
+Visiual Controls: <br>
+
+| Control | Description | Picture |
+|-|-|-|
+|Illum | Adjusts the amount of extra light for display (most likely won't need to use it ever) | |
+|Focus | Adjusts the focus of the graph (for when it seems blurry) | |
+|Inten| Adjusts the intensity of the graph (for when the graph seems dim) | | <br>
+
+Vertical Controls: <br>
+
+| Control | Description | Picture |
+|-|-|-|
+|Position |Moves the graph up and down | |
+|Variable Volts/Div |Changes the y-scale (volts per division) | |
+|CH1/CH2 |Turns on/off the channel | |
+|AC/DC|Changes what the graph is reading (AC signal or DC signal) | |<br>
+
+Horizontal Controls: <br>
+
+| Control | Description | Picture |
+|-|-|-|
+|Position |Moves the graph left and right | |
+|Variable Time/Div |Changes the x-scale (seconds per division) | |<br>
