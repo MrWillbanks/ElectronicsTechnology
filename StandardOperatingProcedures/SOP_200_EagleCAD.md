@@ -32,30 +32,30 @@ To guarantee the safety of personnel and equipment, it is imperative to strictly
 
 1.**Launching Eagle CAD:**
 - Open the Eagle CAD software on your computer.
- <img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/SOP_200_EagleCAD_MarkDown_KMVM/StandardOperatingProcedures/Photos/EagleCAD/download.jpeg" width="200"/>
+ <img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/main/StandardOperatingProcedures/Photos/EagleCAD/download.jpeg" width="200"/>
 
 2. **Creating a New Project:**
 - Begin by creating a new project file.
 - Save the project file in a designated directory.
-<img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/SOP_200_EagleCAD_MarkDown_KMVM/StandardOperatingProcedures/Photos/EagleCAD/Screenshot%202024-03-08%2010.46.13%20AM.png" width="200"/>
+<img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/main/StandardOperatingProcedures/Photos/EagleCAD/Screenshot%202024-03-08%2010.46.13%20AM.png" width="200"/>
 
 3. **Designing Schematics:**
 - Develop the schematic diagram.
 - Ensure accurate representation of components.
 - Utilize nets to define connections.
 
-<img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/SOP_200_EagleCAD_MarkDown_KMVM/StandardOperatingProcedures/Photos/EagleCAD/Drawing-Schematics-in-EAGLE-PCB-Design-Software_1.png" width="200"/>
+<img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/main/StandardOperatingProcedures/Photos/EagleCAD/Drawing-Schematics-in-EAGLE-PCB-Design-Software_1.png" width="200"/>
 
 4. **PCB Layout:**
 - Transfer the schematic to the PCB layout editor.
 - Arrange components on the PCB layout.
-<img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/SOP_200_EagleCAD_MarkDown_KMVM/StandardOperatingProcedures/Photos/EagleCAD/download%20(1).jpeg" width="200"/>
+<img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/main/StandardOperatingProcedures/Photos/EagleCAD/download%20(1).jpeg" width="200"/>
 
 5. **Routing:**
 - Use the autorouter or manually route traces.
 - Pay attention to signal paths.
 
-<img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/SOP_200_EagleCAD_MarkDown_KMVM/StandardOperatingProcedures/Photos/EagleCAD/Screenshot%202024-03-08%2010.50.38%20AM.png" width="200"/>
+<img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/main/StandardOperatingProcedures/Photos/EagleCAD/Screenshot%202024-03-08%2010.50.38%20AM.png" width="200"/>
 
 6. **Design Rule Check (DRC):**
 - Perform a comprehensive Design Rule Check.
@@ -63,11 +63,11 @@ To guarantee the safety of personnel and equipment, it is imperative to strictly
 7. **Generating Gerber Files:**
 - Generate Gerber files required for manufacturing.
 
-<img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/SOP_200_EagleCAD_MarkDown_KMVM/StandardOperatingProcedures/Photos/EagleCAD/maxresdefault.jpg" width="200"/>
+<img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/main/StandardOperatingProcedures/Photos/EagleCAD/maxresdefault.jpg" width="200"/>
 8. **Documentation:**
 - Create detailed documentation.
 - Document design decisions and specifications.
- <img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/SOP_200_EagleCAD_MarkDown_KMVM/StandardOperatingProcedures/Photos/EagleCAD/51f6c788ce395fff6e000005.png" width="200"/>
+ <img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/main/StandardOperatingProcedures/Photos/EagleCAD/51f6c788ce395fff6e000005.png" width="200"/>
 
 9. **Review:**
 - Conduct a thorough review of the PCB design.
