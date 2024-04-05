@@ -1,5 +1,8 @@
 Placeholder for Directory of existing SOP's and Naming Structure:
 
+000:
+(Standard Operating Procedure Template)
+
 001 through 099:
 (Custom Circuit Board Preparation)
 
