@@ -1,7 +1,7 @@
 <img src="https://github.com/MrWillbanks/ElectronicsTechnology/blob/main/StandardOperatingProcedures/Photos/NT_Logo.png" width="60"/>
 Norwich Technical High School - Electronics Technology    	   Date Updated:  3/12/24  
 7 Mahan Drive  
-Norwich, C 0bitch
+Norwich, C 06360
   
   
 TITLE:  How to Use Resin Printer and How to use Chitubox
